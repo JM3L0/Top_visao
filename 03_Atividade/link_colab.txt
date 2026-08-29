@@ -1,0 +1,77 @@
+UNIVERSIDADE FEDERAL DO PIAUÍ – UFPI
+CAMPUS SENADOR HELVÍDIO NUNES DE BARROS – PICOS
+Curso: Bacharelado em Sistemas de Informação
+Disciplina: Tópicos Especiais em Visão Computacional
+Professor: Me. José Denes Lima Araújo
+Período: 6° | Ano/Semestre: 2026.2
+
+3ª ATIVIDADE - TÉCNICAS DE REALCE DE IMAGENS NO DOMÍNIO ESPACIAL
+
+==============================================================================
+LINK DO GOOGLE COLAB COM AS IMPLEMENTAÇÕES:
+==============================================================================
+
+[COLOQUE O LINK DO SEU NOTEBOOK NO GOOGLE COLAB AQUI]
+
+Exemplo de link de compartilhamento do Google Colab:
+https://colab.research.google.com/drive/SEU_ID_DO_NOTEBOOK?usp=sharing
+
+==============================================================================
+INSTRUÇÕES PARA SUBIR NO GOOGLE COLAB:
+==============================================================================
+1. Acesse https://colab.research.google.com/
+2. Vá em "Arquivo" > "Fazer upload de notebook" (ou "Upload notebook")
+3. Selecione o arquivo: 03_Atividade_Tecnicas_de_Realce.ipynb
+4. Após abrir o notebook no Colab, clique em "Compartilhar" (no canto superior direito)
+5. Altere o acesso geral para "Qualquer pessoa com o link" (como Leitor)
+6. Copie o link e cole no campo acima neste arquivo de texto
+7. Envie este arquivo .txt no SIGAA / plataforma da disciplina.
+
+==============================================================================
+RESUMO DAS IMPLEMENTAÇÕES CONTIDAS NO NOTEBOOK:
+==============================================================================
+Todas as 7 técnicas foram implementadas usando suas fórmulas matemáticas,
+com pelo menos duas variações de parâmetros e aplicadas tanto em escala de
+cinza quanto em imagens coloridas (RGB):
+
+a) Negativo da imagem:
+   - Fórmula: s = 255 - r
+   - Variação 1: Inversão total padrão (s = 255 - r)
+   - Variação 2: Inversão suave com ganho (s = clip(255 - 0.8*r, 0, 255))
+
+b) Alongamento de contraste (contrast stretching):
+   - Fórmula: s = ((r - r_min) / (r_max - r_min)) * (s_max - s_min) + s_min
+   - Variação 1: Min-Max direto (percentis 0% e 100%)
+   - Variação 2: Alongamento robusto com percentis (5% e 95%)
+
+c) Realce linear:
+   - Fórmula: s = clip(alpha * r + beta, 0, 255)
+   - Variação 1: Alto contraste (alpha = 1.6, beta = 10)
+   - Variação 2: Baixo contraste com clareamento (alpha = 0.7, beta = 60)
+
+d) Realce logarítmico:
+   - Fórmula: s = c * ln(1 + r)
+   - Variação 1: Escala normalizada padrão (c = 255 / ln(256) ≈ 45.99)
+   - Variação 2: Escala acentuada (c = 60.0)
+
+e) Realce quadrático:
+   - Fórmula: s = c * r^2 = r^2 / 255
+   - Variação 1: Quadrático puro normalizado (s = r^2 / 255)
+   - Variação 2: Quadrático acentuado (s = clip(1.3 * (r^2 / 255) - 15, 0, 255))
+
+f) Realce por raiz quadrada:
+   - Fórmula: s = c * sqrt(r) = 255 * sqrt(r / 255)
+   - Variação 1: Raiz quadrada padrão (s = 255 * (r / 255)^0.5)
+   - Variação 2: Raiz cúbica (s = 255 * (r / 255)^(1/3))
+
+g) Correção gama:
+   - Fórmula: s = 255 * (r / 255)^gamma
+   - Variação 1: gamma = 0.5 (clareamento de sombras / expansão de tons escuros)
+   - Variação 2: gamma = 2.2 (escurecimento / aumento de contraste em realces)
+
+Para cada técnica são apresentadas visualmente:
+1. Imagem original colorida (RGB)
+2. Imagem original em escala de cinza
+3. Imagem em escala de cinza realçada (com as 2 variações)
+4. Imagem colorida realçada (com as 2 variações)
+5. Curva da função de transferência s = T(r) e histogramas comparativos.
