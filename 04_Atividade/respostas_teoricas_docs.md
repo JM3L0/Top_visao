@@ -92,7 +92,3 @@ Os principais tipos são:
  [  0,   0,   0,   0,   0,   0,   0,   0],
  [  0,   0,   0,   0,   0,   0,   0,   0]]
 ```
-
-**Observação sobre os resultados:**
-- O **filtro da média** espalhou os valores isolados (ruídos de 230 e 190), criando manchas com valores intermediários (entre 21 e 51).
-- O **filtro da mediana** removeu completamente os ruídos isolados (substituindo por 0) e preencheu o ponto central vazio (0) do bloco principal com 190, mantendo a forma do objeto preservada.

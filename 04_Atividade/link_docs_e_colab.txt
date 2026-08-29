@@ -4,6 +4,7 @@ Curso: Bacharelado em Sistemas de Informação
 Disciplina: Tópicos Especiais em Visão Computacional
 Professor: Me. José Denes Lima Araújo
 Período: 6° | Ano/Semestre: 2026.2
+Aluno: João Marcos Sousa Rufino Leal
 
 4ª ATIVIDADE - TÉCNICAS DE FILTRAGEM ESPACIAL
 
@@ -11,37 +12,12 @@ Período: 6° | Ano/Semestre: 2026.2
 1. LINK DO GOOGLE DOCS (RESPOSTAS DAS QUESTÕES TEÓRICAS):
 ==============================================================================
 
-[COLOQUE O LINK DO SEU GOOGLE DOCS AQUI]
-
-Exemplo:
-https://docs.google.com/document/d/SEU_ID_DO_DOCUMENTO/edit?usp=sharing
-
-* O conteúdo formatado e completo para colar no Google Docs está disponível
-  no arquivo: respostas_teoricas_docs.md
+[https://drive.google.com/file/d/1f71_qJy474QYJCMyZdLSC6lL9ryVuaXH/view?usp=sharing]
 
 ==============================================================================
 2. LINK DO GOOGLE COLAB (IMPLEMENTAÇÕES PRÁTICAS):
 ==============================================================================
 
-[COLOQUE O LINK DO SEU NOTEBOOK NO GOOGLE COLAB AQUI]
+[https://drive.google.com/file/d/1KD8oWiGuKPBVPtrNYt5_Q2wAiejkSKbJ/view?usp=sharing]
 
-Exemplo:
-https://colab.research.google.com/drive/SEU_ID_DO_NOTEBOOK?usp=sharing
 
-* O arquivo com o código e saídas para upload é:
-  04_Atividade_Tecnicas_de_Filtragem_Espacial.ipynb
-
-==============================================================================
-INSTRUÇÕES PARA PREPARAÇÃO E ENVIO NO SIGAA:
-==============================================================================
-1. Google Docs:
-   - Crie um novo documento no Google Docs (docs.new).
-   - Copie o texto do arquivo "respostas_teoricas_docs.md" e cole no documento.
-   - Clique em "Compartilhar" no canto superior direito, defina como "Qualquer pessoa com o link" (Leitor), copie o link e cole no campo 1 acima.
-
-2. Google Colab:
-   - Acesse https://colab.research.google.com/
-   - Vá em "Arquivo" > "Fazer upload de notebook" e selecione "04_Atividade_Tecnicas_de_Filtragem_Espacial.ipynb".
-   - Clique em "Compartilhar", defina como "Qualquer pessoa com o link" (Leitor), copie o link e cole no campo 2 acima.
-
-3. Envie este arquivo .txt no SIGAA.
