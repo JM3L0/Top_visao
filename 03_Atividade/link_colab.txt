@@ -3,7 +3,7 @@ CAMPUS SENADOR HELVÍDIO NUNES DE BARROS – PICOS
 Curso: Bacharelado em Sistemas de Informação
 Disciplina: Tópicos Especiais em Visão Computacional
 Professor: Me. José Denes Lima Araújo
-Período: 6° | Ano/Semestre: 2026.2
+Período: 7° | Ano/Semestre: 2026.2
 Aluno: João Marcos Sousa Rufino Leal
 
 3ª ATIVIDADE - TÉCNICAS DE REALCE DE IMAGENS NO DOMÍNIO ESPACIAL
