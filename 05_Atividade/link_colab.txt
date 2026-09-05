@@ -1,0 +1,21 @@
+UNIVERSIDADE FEDERAL DO PIAUÍ – UFPI
+CAMPUS SENADOR HELVÍDIO NUNES DE BARROS – PICOS
+Curso: Bacharelado em Sistemas de Informação
+Disciplina: Tópicos Especiais em Visão Computacional
+Professor: Me. José Denes Lima Araújo
+Período: 6° | Ano/Semestre: 2026.2
+Aluno: João Marcos Sousa Rufino Leal
+
+5ª ATIVIDADE - HISTOGRAMA
+
+==============================================================================
+LINK DO GOOGLE COLAB (IMPLEMENTAÇÕES PRÁTICAS):
+==============================================================================
+
+[INSIRA O LINK DO COLAB AQUI]
+
+==============================================================================
+LINK DO GOOGLE DOCS (RESPOSTAS E EXPLICAÇÕES TEÓRICAS - OPCIONAL):
+==============================================================================
+
+[INSIRA O LINK DO DOCS AQUI]
