@@ -3,7 +3,7 @@ CAMPUS SENADOR HELVÍDIO NUNES DE BARROS – PICOS
 Curso: Bacharelado em Sistemas de Informação
 Disciplina: Tópicos Especiais em Visão Computacional
 Professor: Me. José Denes Lima Araújo
-Período: 6° | Ano/Semestre: 2026.2
+Período: 7° | Ano/Semestre: 2026.2
 Aluno: João Marcos Sousa Rufino Leal
 
 5ª ATIVIDADE - HISTOGRAMA
@@ -12,10 +12,10 @@ Aluno: João Marcos Sousa Rufino Leal
 LINK DO GOOGLE COLAB (IMPLEMENTAÇÕES PRÁTICAS):
 ==============================================================================
 
-[INSIRA O LINK DO COLAB AQUI]
+[https://drive.google.com/file/d/1USwrSDTgw6U2KTQ1LYcvS6AFzaVQlTko/view?usp=sharing]
 
 ==============================================================================
 LINK DO GOOGLE DOCS (RESPOSTAS E EXPLICAÇÕES TEÓRICAS - OPCIONAL):
 ==============================================================================
 
-[INSIRA O LINK DO DOCS AQUI]
+[https://docs.google.com/document/d/1w_0sIQlPKV6AZjl6tX-e1xXIefrBVa-8/edit?usp=sharing&ouid=106962905428561003364&rtpof=true&sd=true]
