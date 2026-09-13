@@ -1,7 +1,7 @@
 # 5ª Atividade - Histograma
 **Universidade Federal do Piauí – UFPI**  
 **Campus Senador Helvídio Nunes de Barros – Picos**  
-**Curso:** Sistemas de Informação | **Período:** 6° | **Ano/Semestre:** 2026.2  
+**Curso:** Sistemas de Informação | **Período:** 7° | **Ano/Semestre:** 2026.2  
 **Disciplina:** Tópicos Especiais em Visão Computacional  
 **Professor:** Me. José Denes Lima Araújo  
 **Aluno:** João Marcos Sousa Rufino Leal  

@@ -6,18 +6,22 @@ Professor: Me. José Denes Lima Araújo
 Período: 7° | Ano/Semestre: 2026.2
 Aluno: João Marcos Sousa Rufino Leal
 
-4ª ATIVIDADE - TÉCNICAS DE FILTRAGEM ESPACIAL
+6ª ATIVIDADE - TRANSFORMAÇÕES GEOMÉTRICAS E INTERPOLAÇÃO DE INTENSIDADES
 
 ==============================================================================
 1. LINK DO GOOGLE DOCS (RESPOSTAS DAS QUESTÕES TEÓRICAS):
 ==============================================================================
 
-[https://drive.google.com/file/d/1f71_qJy474QYJCMyZdLSC6lL9ryVuaXH/view?usp=sharing]
+[COLE AQUI O LINK DO GOOGLE DOCS COM AS RESPOSTAS TEÓRICAS]
 
 ==============================================================================
 2. LINK DO GOOGLE COLAB (IMPLEMENTAÇÕES PRÁTICAS):
 ==============================================================================
 
-[https://drive.google.com/file/d/1KD8oWiGuKPBVPtrNYt5_Q2wAiejkSKbJ/view?usp=sharing]
+[COLE AQUI O LINK DO SEU NOTEBOOK NO GOOGLE COLAB / GOOGLE DRIVE]
 
-
+==============================================================================
+OBSERVAÇÕES:
+- O arquivo 'respostas_teoricas_e_explicacoes.md' contém todo o texto acadêmico formatado pronto para copiar e colar no Google Docs.
+- O arquivo '06_Atividade_Transformacao_e_Interpolacao.ipynb' contém todas as implementações executadas e os gráficos gerados prontos para upload no Google Drive / Colab.
+==============================================================================

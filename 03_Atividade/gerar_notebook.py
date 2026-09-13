@@ -93,7 +93,7 @@ env = {}
 # 1. CABEÇALHO
 add_markdown(r"""# UNIVERSIDADE FEDERAL DO PIAUÍ – UFPI
 ## CAMPUS SENADOR HELVÍDIO NUNES DE BARROS – PICOS
-**Curso:** Sistemas de Informação | **Período:** 6° | **Ano/Semestre:** 2026.2  
+**Curso:** Sistemas de Informação | **Período:** 7° | **Ano/Semestre:** 2026.2  
 **Disciplina:** Tópicos Especiais em Visão Computacional  
 **Professor:** Me. José Denes Lima Araújo  
 
