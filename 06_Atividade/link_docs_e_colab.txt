@@ -12,13 +12,13 @@ Aluno: João Marcos Sousa Rufino Leal
 1. LINK DO GOOGLE DOCS (RESPOSTAS DAS QUESTÕES TEÓRICAS):
 ==============================================================================
 
-[COLE AQUI O LINK DO GOOGLE DOCS COM AS RESPOSTAS TEÓRICAS]
+[https://drive.google.com/file/d/1BH93HHoeNdd2q6BLvY42bYe8DYazGrt_/view?usp=sharing]
 
 ==============================================================================
 2. LINK DO GOOGLE COLAB (IMPLEMENTAÇÕES PRÁTICAS):
 ==============================================================================
 
-[COLE AQUI O LINK DO SEU NOTEBOOK NO GOOGLE COLAB / GOOGLE DRIVE]
+[https://drive.google.com/file/d/1mUzAkPg2bwkAbJCPo6fTsWGUXkLD9mz7/view?usp=sharing]
 
 ==============================================================================
 OBSERVAÇÕES:
