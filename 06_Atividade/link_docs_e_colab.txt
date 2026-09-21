@@ -21,7 +21,3 @@ Aluno: João Marcos Sousa Rufino Leal
 [https://drive.google.com/file/d/1mUzAkPg2bwkAbJCPo6fTsWGUXkLD9mz7/view?usp=sharing]
 
 ==============================================================================
-OBSERVAÇÕES:
-- O arquivo 'respostas_teoricas_e_explicacoes.md' contém todo o texto acadêmico formatado pronto para copiar e colar no Google Docs.
-- O arquivo '06_Atividade_Transformacao_e_Interpolacao.ipynb' contém todas as implementações executadas e os gráficos gerados prontos para upload no Google Drive / Colab.
-==============================================================================
